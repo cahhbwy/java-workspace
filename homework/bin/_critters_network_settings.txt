@@ -1,0 +1,6 @@
+#CPSC112 Critters saved network settings
+#Wed Feb 18 17:37:56 CST 2015
+backgroundColors=true
+lastHostName=
+accept=ask
+fps=11
